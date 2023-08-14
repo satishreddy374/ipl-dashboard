@@ -1,0 +1,100 @@
+/* Write your CSS here */
+
+.latest-match-details-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #1e293b;
+  border-radius: 14px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 100%;
+}
+
+.date-venue-and-result-container {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+}
+
+.competing-team-text {
+  font-size: 30px;
+  font-family: Bree Serif;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.date-text {
+  font-size: 23px;
+  font-family: Bree Serif;
+  font-weight: bold;
+  color: #ffffff;
+}
+.venue-text {
+  font-size: 18px;
+  font-family: Bree Serif;
+  color: #ffffff;
+}
+
+.result-text {
+  font-size: 21px;
+  font-family: Bree Serif;
+  color: #ffffff;
+}
+
+.competing-team-logo-container {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+}
+
+.competing-team-logo {
+  width: 170px;
+  height: 170px;
+}
+
+.umpire-first-and-seconds-innings-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+  width: 30%;
+}
+
+.innings-text {
+  font-size: 23px;
+  font-family: Bree Serif;
+  color: #ffffff;
+}
+
+.innings-team-name {
+  font-size: 17px;
+  font-family: Bree Serif;
+  color: #ffffff;
+}
+
+.man-of-the-match-text {
+  font-size: 23px;
+  font-family: Bree Serif;
+  color: #ffffff;
+}
+
+.man-of-the-match-player-name {
+  font-size: 17px;
+  font-family: Bree Serif;
+  color: #ffffff;
+}
+
+.umpires-text {
+  font-size: 20px;
+  font-family: Bree Serif;
+  color: #ffffff;
+}
+
+.umpires-name {
+  font-size: 17px;
+  font-family: Bree Serif;
+  color: #ffffff;
+}
